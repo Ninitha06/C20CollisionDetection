@@ -1,2 +1,2 @@
-# C20CollisionDetection
-To give off the code to students
+# p5.play-boilerplate
+Boiler plate for p5.play
